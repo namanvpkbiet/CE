@@ -15,3 +15,4 @@ int main(){
     printf("The factorial of number n is %d\n",factorial);
     return 0;
 }
+
